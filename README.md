@@ -12,6 +12,7 @@ Inspired by the awesome-list community.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
 - [Christmas Widget](https://aionetools.com/tools/holiday/christmas-countdown) - Christmas countdown widget for website
+- [TinyTools](https://tinytools-smoky.vercel.app/) – Free single-purpose web utilities, all browser-based, no signup. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator. Open source.
 
 ## Developer & Web Tools
 
@@ -19,6 +20,8 @@ Inspired by the awesome-list community.
 - [JSFiddle](https://jsfiddle.net) – Online code editor for testing snippets.
 - [Postman](https://www.postman.com) – API development and testing platform.
 - [JSON Formatter](https://jsonformatter.org) – Format and validate JSON data.
+- [TinyTools SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/seo-meta-generator/) – Generate OG / Twitter / SEO meta tags in the browser. Free, no signup.
+- [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/favicon-generator/) – Free browser-based favicon generator. No upload required.
 
 ## Laravel & PHP Resources
 
