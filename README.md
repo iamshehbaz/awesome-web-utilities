@@ -8,6 +8,7 @@ Inspired by the awesome-list community.
 
 - [AIOneTools](https://aionetools.com) – Collection of free online tools for text processing, calculators, converters, and simple generators.
 - [TinyWow](https://tinywow.com) – Free PDF, image, writing, and file tools.
+- [Mini Tools](https://mini-tools.uk) – Free multilingual online tools for developer utilities, image/PDF tools, UK finance calculators, image hosting and everyday converters.
 - [Designs.ai](https://designs.ai) – AI-powered tools for logos, videos, banners, and content creation.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
@@ -19,6 +20,7 @@ Inspired by the awesome-list community.
 - [JSFiddle](https://jsfiddle.net) – Online code editor for testing snippets.
 - [Postman](https://www.postman.com) – API development and testing platform.
 - [JSON Formatter](https://jsonformatter.org) – Format and validate JSON data.
+- [Mini Tools JSON Formatter](https://mini-tools.uk/json) – Format, validate, minify and inspect JSON in the browser.
 
 ## Laravel & PHP Resources
 
