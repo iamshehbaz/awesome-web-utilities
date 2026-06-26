@@ -13,6 +13,8 @@ Inspired by the awesome-list community.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
 - [Christmas Widget](https://aionetools.com/tools/holiday/christmas-countdown) - Christmas countdown widget for website
 
+- [FreePNGConvert](https://freepngconvert.com) – Free in-browser WebP, HEIC, and AVIF to PNG converter. No upload, privacy-first.
+
 ## Developer & Web Tools
 
 - [CodePen](https://codepen.io) – Front-end playground for HTML, CSS, and JavaScript.
