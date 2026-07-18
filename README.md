@@ -8,6 +8,7 @@ Inspired by the awesome-list community.
 
 - [AIOneTools](https://aionetools.com) – Collection of free online tools for text processing, calculators, converters, and simple generators.
 - [TinyWow](https://tinywow.com) – Free PDF, image, writing, and file tools.
+- [FileLume](https://filelume.com) – Browser-based PDF, image, audio, and data utilities with clear local, server, or hybrid processing labels.
 - [Designs.ai](https://designs.ai) – AI-powered tools for logos, videos, banners, and content creation.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
