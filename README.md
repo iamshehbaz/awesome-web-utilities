@@ -7,6 +7,7 @@ Inspired by the awesome-list community.
 ## Online Utility Tools
 
 - [AIOneTools](https://aionetools.com) – Collection of free online tools for text processing, calculators, converters, and simple generators.
+- [FreePNGConvert](https://freepngconvert.com) – Free browser-based WebP to PNG converter. No uploads, no signup, unlimited conversions, full privacy.
 - [TinyWow](https://tinywow.com) – Free PDF, image, writing, and file tools.
 - [Designs.ai](https://designs.ai) – AI-powered tools for logos, videos, banners, and content creation.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
