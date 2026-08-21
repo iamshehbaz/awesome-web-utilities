@@ -12,6 +12,13 @@ Inspired by the awesome-list community.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
 - [Christmas Widget](https://aionetools.com/tools/holiday/christmas-countdown) - Christmas countdown widget for website
+- [Codex Theme Builder](https://codextheme.tools) – Free theme builder for OpenAI Codex with live preview and CSS token export.
+- [WattsCalc](https://wattscalc.com) – Free wattage and electricity cost calculator.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) – Free lawn mowing cost estimates by area and rate.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) – Free embroidery job pricing calculator.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) – Free tool that converts images into crochet patterns.
+- [Pressure Washer Fix](https://pressurewasherfix.com) – Free pressure washer troubleshooting guides.
+- [SkyCOTL Tools](https://skycotl.tools) – Free guides and calculators for Sky: Children of the Light.
 
 ## Developer & Web Tools
 
