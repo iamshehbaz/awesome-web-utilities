@@ -12,6 +12,7 @@ Inspired by the awesome-list community.
 - [Remove.bg](https://www.remove.bg) – Automatically remove image backgrounds.
 - [ILovePDF](https://www.ilovepdf.com) – PDF editing and conversion tools.
 - [Christmas Widget](https://aionetools.com/tools/holiday/christmas-countdown) - Christmas countdown widget for website
+- [Cursive Generation](https://cursive-generation.com/cursive-generator) – Free decorative cursive-font previews with plain-text copy; paid fonts and workbooks are separate.
 
 ## Developer & Web Tools
 
